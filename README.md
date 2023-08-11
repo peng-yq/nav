@@ -1,7 +1,6 @@
-
-
-<img src="https://cdn.jsdelivr.net/gh/peng-yq/Gallery/img/202308111040778.png" align="center" height = "50"></img>
-
+<p align="center">
+    <img alt="PYQ-Nav-Logo" src="https://cdn.jsdelivr.net/gh/peng-yq/Gallery/img/202308111040778.png" height="50">
+</p>
 <h2 align="center">PYQ-Nav</h2>
 
 
